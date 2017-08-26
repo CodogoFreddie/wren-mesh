@@ -1,0 +1,3 @@
+[submodule "wren-vector"]
+	path = wren-vector
+	url = git@github.com:CodogoFreddie/wren-vector.git
